@@ -96,6 +96,8 @@ function init() {
     plane.position.x = 0;
     plane.position.y = 0;
     plane.position.z = 0;
+    
+    scene.add(plane);
     console.log("Added Plane Primitive");
     //Added an AmbientLight to the scene
     ambientLight = new AmbientLight(0x090909);
@@ -219,7 +221,6 @@ function init() {
     human.add(leftshoe);
     human.add(la);
     human.add(ra);
-    human.add(plane);
     human.rotation.y = -100;
     scene.add(human); //all parts added to scene
     //Cube to the Scene
