@@ -1,13 +1,13 @@
 {
-  "name": "comp392-threejsboilerplate",
+  "name": "Gursharnbir - Asg1 CubeMan",
   "authors": [
-    "Tom Tsiliopoulos <tsiliopoulos@hotmail.com>"
+    "Gursharnbir Singh <gsing538@my.centennialcollege.ca>"
   ],
-  "description": "COMP392-ThreeJSBoilerPlate for Advanced Graphics",
+  "description": "Advanced Graphics",
   "main": "",
   "moduleType": [],
   "license": "MIT",
-  "homepage": "http://github.com/CentennialCollege/COMP392-Lesson01-Part2",
+  "homepage": "https://github.com/gvirk/COMP392-CubeMan.git",
   "ignore": [
     "**/.*",
     "node_modules",

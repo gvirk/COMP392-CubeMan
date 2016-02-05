@@ -1,3 +1,7 @@
+/**
+ * @author: Gursharnbir Singh
+ */
+
 /// <reference path="../../typings/tsd.d.ts"/>
 
 module objects {

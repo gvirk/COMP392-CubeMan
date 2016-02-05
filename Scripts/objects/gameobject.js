@@ -1,9 +1,13 @@
-/// <reference path="../../typings/tsd.d.ts"/>
+/**
+ * @author: Gursharnbir Singh
+ */
+
 var __extends = (this && this.__extends) || function (d, b) {
     for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
     function __() { this.constructor = d; }
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 };
+/// <reference path="../../typings/tsd.d.ts"/>
 var objects;
 (function (objects) {
     var gameObject = (function (_super) {
@@ -23,4 +27,3 @@ var objects;
     })(THREE.Mesh);
     objects.gameObject = gameObject;
 })(objects || (objects = {}));
-//# sourceMappingURL=gameobject.js.map
